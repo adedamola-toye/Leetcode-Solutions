@@ -1,4 +1,4 @@
-""" My first approach """
+""" My first approach """ 
 
 class Solution(object):
     def containsDuplicate(self, nums):
